@@ -1,3 +1,5 @@
+<img src="https://github.com/chuongtruong/Portfolio-21/blob/Master/public/images/4.jpg" width="800">
+
 # Live Demo
 
 https://ct-chat-application.netlify.app/
